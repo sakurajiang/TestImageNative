@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestImageNative</string>
+    <string name="et_value">填写压缩质量，范围是0–100</string>
+    <string name="select_image">选择图片</string>
+    <string name="image_size">%1$s图片大小%2$dKB</string>
+    <string name="origin_image">原图</string>
+    <string name="compress_image">系统压缩后的</string>
+    <string name="native_compress_image">libjpeg压缩后的</string>
+</resources>
